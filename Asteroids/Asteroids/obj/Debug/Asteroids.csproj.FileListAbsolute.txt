@@ -1,0 +1,18 @@
+D:\Google Drive\Back to School\Programming\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+D:\Google Drive\Back to School\Programming\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+D:\Google Drive\Back to School\Programming\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+D:\Google Drive\Back to School\Programming\Asteroids\Asteroids\obj\Debug\Asteroids.csprojResolveAssemblyReference.cache
+D:\Google Drive\Back to School\Programming\Asteroids\Asteroids\obj\Debug\Asteroids.Form1.resources
+D:\Google Drive\Back to School\Programming\Asteroids\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+D:\Google Drive\Back to School\Programming\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.Cache
+D:\Google Drive\Back to School\Programming\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+D:\Google Drive\Back to School\Programming\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
+D:\Google Drive\School\Programming\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+D:\Google Drive\School\Programming\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+D:\Google Drive\School\Programming\Asteroids\Asteroids\obj\Debug\Asteroids.csprojResolveAssemblyReference.cache
+D:\Google Drive\School\Programming\Asteroids\Asteroids\obj\Debug\Asteroids.Form1.resources
+D:\Google Drive\School\Programming\Asteroids\Asteroids\obj\Debug\Asteroids.Properties.Resources.resources
+D:\Google Drive\School\Programming\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.GenerateResource.Cache
+D:\Google Drive\School\Programming\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+D:\Google Drive\School\Programming\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+D:\Google Drive\School\Programming\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
